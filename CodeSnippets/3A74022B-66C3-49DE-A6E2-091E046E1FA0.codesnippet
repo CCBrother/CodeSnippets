@@ -3,20 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>Screen Size</string>
+	<string>dam</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>TopLevel</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#define SCREEN_WIDTH        ([UIScreen mainScreen].bounds.size.width)
-#define SCREEN_HEIGHT       ([UIScreen mainScreen].bounds.size.height)</string>
+	<string>dispatch_async(dispatch_get_main_queue(), ^{
+    &lt;#code#&gt;
+});
+</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>D9DDFABF-9243-4213-9AEA-9D4EDCEDB393</string>
+	<string>3A74022B-66C3-49DE-A6E2-091E046E1FA0</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Screen size</string>
+	<string>dispatch_async_main</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

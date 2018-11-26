@@ -3,21 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>mainGCD</string>
+	<string>pc</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dispatch_async(dispatch_get_main_queue(), ^{
-    &lt;#code#&gt;
-});</string>
+	<string>@property (nonatomic, copy)       NSString *&lt;#string#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>83001A52-1F8F-4719-AFF5-235E3CF5CB48</string>
+	<string>AE85719E-344F-4A31-A4C3-A40F3AFD9E1E</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>MainGCD</string>
+	<string>pCopy</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

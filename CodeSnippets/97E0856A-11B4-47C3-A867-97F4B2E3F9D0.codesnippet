@@ -3,23 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>button</string>
+	<string>pm</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>UIButton *btn = [UIButton buttonWithType:UIButtonTypeCustom];
-btn.frame = CGRectMake(&lt;##&gt;, &lt;##&gt;, &lt;##&gt;, &lt;##&gt;);
-btn.backgroundColor = [UIColor clearColor];
-[btn addTarget:self action:@selector(clicked:) forControlEvents:UIControlEventTouchUpInside];
-[self.view addSubview:btn];</string>
+	<string>#pragma mark - &lt;#mark#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>DF3479DF-12FF-4499-997B-E0B9BE4572E1</string>
+	<string>97E0856A-11B4-47C3-A867-97F4B2E3F9D0</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>button</string>
+	<string>pMark</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
